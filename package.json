@@ -1,18 +1,18 @@
 {
-  "author": "Brian M. Carlson <brian@enginode.com> (http://enginode.com)",
-  "name": "agi",
+  "author": "Thiago Costa <admin@rootbsd.info>",
+  "name": "@thiagodk/agi",
   "description": "AGI (Asterisk Gateway Interface) for writing dialplan scripts",
   "version": "0.0.4",
   "repository": {
     "type": "git",
-    "url": "git://github.com/brianc/node-agi.git"
+    "url": "git://github.com/thiagodk/node-agi.git"
   },
   "main": "lib/",
   "scripts": {
     "test": "mocha -R tap"
   },
   "engines": {
-    "node": ">=0.8.0"
+    "node": ">=0.9.0"
   },
   "dependencies": {
     "readable-stream": "*"
