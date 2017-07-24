@@ -2,7 +2,7 @@
   "author": "Thiago Costa <admin@rootbsd.info>",
   "name": "@thiagodk/agi",
   "description": "AGI (Asterisk Gateway Interface) for writing dialplan scripts",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "repository": {
     "type": "git",
     "url": "git://github.com/thiagodk/node-agi.git"
